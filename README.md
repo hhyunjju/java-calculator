@@ -27,8 +27,8 @@
   3.2 Application.java 에서 Calculator 등록
 
   +) 3.1, 3.2 나누어서 commit
-  +) [git commit convention](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Git%20Commit%20Message%20Convention.md) 참고해서 메시지 작성
 ```
+> [git commit convention](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Git%20Commit%20Message%20Convention.md) 참고해서 메시지 작성
 
 ### 4. Git push & pull request
 ```
