@@ -8,9 +8,7 @@
 ### 1. Git Fork & Clone
 ```.git
   1.1 이 페이지 상단에 있는 fork 버튼 클릭해서 fork
-
   1.2 fork한 레포지토리로 이동한 다음 code 버튼 클릭해서 주소 얻기
-
   1.3 내 로컬에 clone 하기
 ```
 
