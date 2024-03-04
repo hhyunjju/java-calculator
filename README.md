@@ -17,6 +17,8 @@
 ```.git
   2.1 clone한 로컬 git 프로젝트에서 브랜치 생성
   2.2 생성한 브랜치로 checkout
+
+  +) 브랜치 이름은 feature/{맡은 기능} 으로 생성
 ```
 
 ### 3. 코드 구현 및 Git commit
@@ -29,8 +31,8 @@
 
 ### 4. Git push & pull request
 ```
-  4.1 fork한 자신 레포에 push
-  4.2 원본 레포에 pull request
+  4.1 fork한 자신 계정 레포지토리에 push
+  4.2 원본 레포에 pull request 생성
 ```
 
 ### 5. Github code review
